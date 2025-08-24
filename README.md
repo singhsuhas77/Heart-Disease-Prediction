@@ -9,7 +9,7 @@ A machine learning project that predicts the likelihood of a person having heart
 * **High Accuracy:** Utilizes a stacked ensemble of Random Forest and K-Nearest Neighbors, optimized with Hyperband for superior performance.
 * **Web Interface:** A user-friendly web interface built with Flask to make predictions.
 * **Easy to Use:** Simply input the required medical attributes and get an instant prediction.
-* **Well-documented:** The code is well-commented for easy understanding and modification.
+* **Well-documented:** The code is well-commented for easy understanding and modification. 
 
 ---
 
